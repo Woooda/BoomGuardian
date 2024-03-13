@@ -1,0 +1,4 @@
+# Конфигурация для плагина ObsidianExplosionPlugin
+
+# Настройка прочности обсидиана
+obsidian_strength: 30
